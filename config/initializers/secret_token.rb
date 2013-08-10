@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Rails3MongoidOmniauth::Application.config.secret_token = 'ecc22886e43c48cfccdc3f1086c975832eadb580d08d51a6fa499af517737d2d2bb71c7a9354fa3a45b12669bb9959a209832147be32aad1d610a33502c59266'
+Rails3MongoidOmniauth::Application.config.secret_token = 'd0b8047dca10ec9f51c4e373ca01a629efc3351207d4320352c40a750382b93478341d9371be9656e21e15816f09a17376407696e29102fafbc7d65ee7468265'
